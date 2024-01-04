@@ -1,0 +1,33 @@
+header{
+    padding: 0px;
+    background-color: #034694;
+    border-style: ridge;
+    border-radius: 1cm;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    padding: 50px;
+    background-color: #034694;
+    border-style:ridge;
+    border-radius: 1cm;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    border: 1px black;
+    background-color: white;
+    border-collapse: collapse;
+    text-align: center;
+    display:inline-table;
+}
+
+footer{
+    padding: 3px;
+    background-color: #034694;
+    border-style: ridge;
+    border-radius: 1cm;
+    text-align: center;
+}
